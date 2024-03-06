@@ -1,0 +1,10 @@
+body {
+  background-color: #d2b48c !important;
+  margin: 0 !important;
+  padding: 0!important;
+}
+
+.card-custom {
+  max-width: 350px; /* Adjust the value as needed */
+  margin: 0 auto 20px; /* Center the card within the available space */
+}
