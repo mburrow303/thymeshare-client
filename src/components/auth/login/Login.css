@@ -1,0 +1,23 @@
+#form_container{
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+input {
+      margin-bottom: 1.5rem!important;
+      border-radius: 1rem;
+      background-color: #ECECEC;
+      line-height:2rem;
+      border:2px solid black;
+  }
+
+#submit_button {
+  border: 1.5px solid black;
+  border-radius: 1rem;
+  background-color: #4D4D4D;
+  color:#ECECEC;
+}
+
+input:focus{
+  outline: none;
+}

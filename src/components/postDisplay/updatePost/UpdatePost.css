@@ -1,0 +1,18 @@
+.edit-button {
+  width: 100%;
+  background-color: #d2b48c;
+  color: #ececec;
+  margin: 3px 10px;
+  cursor: pointer;
+  border-radius: 16px;
+  padding: 10px 10px;
+}
+ 
+.edit-button:hover{
+  color: #808080;
+}
+
+.update-post {
+  width: 100%;
+  display: inline-block;
+}
