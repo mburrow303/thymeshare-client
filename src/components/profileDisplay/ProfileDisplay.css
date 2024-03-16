@@ -1,0 +1,23 @@
+body {
+  background-color: #d2b48c !important;
+  margin: 0 !important;
+  padding: 0!important;
+}
+
+div {
+  background-color: #d2b48c;
+}
+
+/* #picture {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(https://plus.unsplash.com/premium_photo-1661767982082-a12be5f63874?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHJlY2lwZXMlMjB3aXRoJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D);
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+} */
+
+img {
+  width: 100%;
+  height: 20%;
+  background-color: #d2b48c;
+}
